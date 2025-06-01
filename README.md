@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Zakariya</h1>
+<h1 align="center">Bonjour 👋, Je m'appel Zakariya</h1>
 <h3 align="center">Bojour, je code depuis l'âge de 8 ans la j'en ais 12 et j'aimerai bien travaille le plus tôt possible</h3>
 
 - Jais Coder un Site de restaurant [Restaurant](https://zduchevreuil.github.io/Restaurant/)
@@ -8,7 +8,7 @@
 
 - Jais Coder un site de vente de voiture [Voiture de Luxes](https://zduchevreuil.github.io/voiture-de-luxe/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mes Language</h3>
 <p align="left">
 </p>
 
