@@ -7,7 +7,7 @@
 
 - Jais Coder un site de vente de voiture [Voiture de Luxes](https://zduchevreuil.github.io/voiture-de-luxe/)
 
-<h3 align="left">Mes Language</h3>
+<h3 align="left">Mes Langue</h3>
 <p align="left">
   Français ,
   Turque ,
