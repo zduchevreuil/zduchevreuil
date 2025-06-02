@@ -9,9 +9,9 @@
 
 <h3 align="left">Mes Language</h3>
 <p align="left">
-  * Français 
-  * Turque 
-  * Anglais (un peu)
+  Français ,
+  Turque ,
+  Anglais (un peu)
 </p>
 
 <h3 align="left">Langages et outils:</h3>
